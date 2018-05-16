@@ -1,6 +1,5 @@
 # Data Science Portfolio
 Personal examples of Data Science work—including Notebooks, Python code, Visualizations, and Presentations.
-___
 
 ## League of Legends
 May 2018
