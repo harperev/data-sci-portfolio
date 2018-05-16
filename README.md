@@ -21,3 +21,9 @@ The final results and recommendations are presented in a brief PDF document. Thi
 May 2017
 
 This PowerPoint presentation (also available in PDF) demonstrates the use of hierarchical clustering and predictive models to test for a relationship between the past and present safety records of airlines.
+
+
+## Tableau Examples
+Nov. 2016
+
+This folder contains example dashboards and visualizations created in Tableau, with both JPG images and TWBX packaged workbooks available.
