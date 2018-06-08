@@ -1,6 +1,8 @@
 # Data Science Portfolio
 Personal examples of Data Science work—including Notebooks, Python code, Visualizations, and Presentations.
 
+These examples were created for graduate-level coursework. They utilize public data and do not represent any compensation or income derived from business application. However, the methods and techniques demonstrated herein are intended to be easily applied to such real-world business cases.
+
 ## League of Legends
 May 2018
 * A comprehensive data science project using predictive analytics (scikit-learn in Python) with online game match statistics.
